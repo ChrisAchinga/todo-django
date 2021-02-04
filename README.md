@@ -1,3 +1,0 @@
-# tweeter
-
-My embeded tweets
